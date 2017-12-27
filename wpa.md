@@ -14,6 +14,10 @@ Retrieve available networks with
 
     scan_result
 
+List all configured networks where the first column is the networks id
+
+    list_network
+
 Create a new network
     
     add_network
