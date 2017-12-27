@@ -6,7 +6,7 @@ Use this to get into interactive session
     
     sudo wpa_cli
 
-Scan environment with and wait for RESULT 
+Execute environment scan and wait for `RESULT` message 
     
     scan
 
@@ -14,7 +14,7 @@ Retrieve available networks with
 
     scan_result
 
-List all configured networks where the first column is the networks id
+List all configured networks where the first column is the networks `<id>`
 
     list_network
 
