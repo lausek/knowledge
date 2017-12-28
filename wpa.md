@@ -24,7 +24,7 @@ Create a new network
 
 `<id>` is a unique intern number which identifies the network. Set the networks information with `set_network` 
 
-    set_network <id> ssis "SSID"
+    set_network <id> ssid "SSID"
     set_network <id>  psk "psk"
 
     # for networks without key
