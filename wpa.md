@@ -1,5 +1,7 @@
 # Connect to a new network
 
+**Note:** Depending on the networks IP assignment configuration, this could require a change of the network interface in `/etc/network/interfaces`. 
+
 ## Interactively 
 
 Use this to get into interactive session
@@ -40,6 +42,6 @@ Save
 
 ## Oneliner
 
-Use `wpa_passphrase` to directly connect
+Use `wpa_passphrase` to directly connect if ssid and psk are known
 
-    wpa_passphrase SSID psk > /etc/wpa_supplicant/<network>.conf
+    wpa_passphrase <ssid> <psk> > /etc/wpa_supplicant/<network>.conf
