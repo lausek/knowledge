@@ -1,2 +1,2 @@
 # knowledge
-a collection of markdown documents 
+A collection of markdown documents 
