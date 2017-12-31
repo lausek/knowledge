@@ -8,6 +8,18 @@ Start program
 
     run
 
+Step into next function
+
+    step
+
+Step over next function
+
+    next
+
+Step out of function
+
+    finish
+
 Display variable
 
     print <name>
