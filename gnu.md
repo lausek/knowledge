@@ -2,7 +2,6 @@
 
     gcc <program> -o<target> -ggdb
 
-
 # Commands
 
 Start program
