@@ -12,6 +12,8 @@
 
     git add *
 
+    # or for one file
+
     git add <file>
 
 ## Check current commit
@@ -33,3 +35,7 @@
 ## Add remote connection to existing repo
     
     git remote add origin <url>
+    
+    git config --global credential.helper cache
+
+    git push --set-upstream origin master
