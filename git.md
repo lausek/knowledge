@@ -1,6 +1,6 @@
 # Commands
 
-## Create local git 
+## Create local repo
 
     git init
 
@@ -29,3 +29,7 @@
 ## Send changes to remote
 
     git push
+
+## Add remote connection to existing repo
+    
+    git remote add origin <url>
