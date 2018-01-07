@@ -39,3 +39,7 @@
     git config --global credential.helper cache
 
     git push --set-upstream origin master
+
+## Switch to branch
+
+    git branch <branch> 
