@@ -2,7 +2,7 @@
 
 Add user to sudo group
 
-    useradd -G sudo <user>
+    usermod -aG sudo <user>
 
 # Disable password for sudo
 
