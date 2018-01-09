@@ -40,6 +40,10 @@
 
     git push --set-upstream origin master
 
-## Switch to branch
+## Create new branch
 
     git branch <branch> 
+
+## Switch to branch
+
+    git checkout <branch>
