@@ -1,4 +1,8 @@
-# Choosing shell for execution
+# Comments
+
+    # comment
+
+## Choosing shell for execution
 
 A path to the shell can be specified after a shebang `#!` in the first line of the script.
 
@@ -50,3 +54,41 @@ echo $var
 - `$RANDOM` - Returns a different random number each time is it referred to
 
 - `$LINENO` - Returns the current line number in the Bash script
+
+# Branching
+
+## `if`
+
+    if [ <expression> ]
+    then
+        # do something
+    elif [ <expression> ]
+    then
+        # do elseif
+    else
+        # do else
+    fi
+
+### Operators
+
+- `!<expression>` - negate result of expression
+- `-n <string>` - string is not empty 
+- `-z <string>` - string is empty
+
+- **compare strings**
+    - `=` - equal
+    - `!=` - not equal
+
+- **compare integers**
+    - `-eq` - equal
+    - `-gt` - greater than 
+    - `-lt` - less than
+
+- **file operations**
+    - `-e` - exists 
+    - `-d` - exists and is a directory
+    - `-r` - exists and read is allowed
+    - `-w` - exists and write is allowed
+    - `-x` - exists and execution is allowed
+    - `-s` - exists and file is not empty 
+
