@@ -57,6 +57,9 @@ echo $var
 
 # Branching
 
+
+**Note:** `then` can be moved to the same line if a semicolon is used after the brackets. 
+
 ## `if`
 
     if [ <expression> ]
