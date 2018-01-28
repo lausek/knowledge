@@ -57,9 +57,6 @@ echo $var
 
 # Branching
 
-
-**Note:** `then` can be moved to the same line if a semicolon is used after the brackets. 
-
 ## `if`
 
     if [ <expression> ]
@@ -71,6 +68,8 @@ echo $var
     else
         # do else
     fi
+
+**Note:** `then` can be moved to the same line if a semicolon is used after the brackets. 
 
 ### Operators
 
@@ -95,3 +94,15 @@ echo $var
     - `-x` - exists and execution is allowed
     - `-s` - exists and file is not empty 
 
+## `case`
+
+    case <value> in
+    <expression>)
+
+        ;;
+    <expression>)
+
+        ;;
+    *)
+        # default branch
+    esac
