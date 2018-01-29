@@ -71,6 +71,14 @@ echo $var
 
 **Note:** `then` can be moved to the same line if a semicolon is used after the brackets. 
 
+## `if` - double-parenthesis
+
+In simple parenthesis, it is possible to use regular comparison operators and logical connections (`&&`, `||`).
+
+    if (( <expression> )); then
+        # ...
+    fi
+
 ### Operators
 
 - `!<expression>` - negate result of expression
