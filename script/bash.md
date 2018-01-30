@@ -114,3 +114,17 @@ In simple parenthesis, it is possible to use regular comparison operators and lo
     *)
         # default branch
     esac
+
+# Looping
+
+## `for`
+    
+    # loop over a series of words
+    for w in $( ls ); do
+        # ...
+    done
+
+    # for ... in ...
+    for i in `seq 1 10`; do
+        # ...
+    done
