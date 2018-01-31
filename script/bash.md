@@ -128,3 +128,17 @@ In simple parenthesis, it is possible to use regular comparison operators and lo
     for i in `seq 1 10`; do
         # ...
     done
+
+## `while`
+    
+    # loop while expression is true
+    while [ <expression> ]; do
+        # ...
+    done
+
+## `until`
+    
+    # loop until expression is true
+    until [ <expression> ]; do
+        # ...
+    done
