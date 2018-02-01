@@ -24,7 +24,7 @@ var='Debian'
 # double quotes allow interpolation
 var="$var 9"
 
-# assign program output variable  
+# assign program output to variable  
 var=$( ls /etc )
 
 # get variable
