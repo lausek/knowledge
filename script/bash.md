@@ -29,6 +29,10 @@ var=$( ls /etc )
 
 # get variable
 echo $var
+
+# make variable available to child process
+export $var
+# call ... 
 ```
 
 ## Special variables
