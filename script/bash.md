@@ -146,3 +146,33 @@ In simple parenthesis, it is possible to use regular comparison operators and lo
     until [ <expression> ]; do
         # ...
     done
+
+# IO
+
+## Input
+
+    # take input from user
+    # no $ here (write)
+    read var
+
+    # specify prompt
+    read -p 'What's your name? ' var
+   
+    # silent input for passwords
+    read -s password
+
+**Note:** `read` splits on whitespace 
+
+    read var1 var2 var3
+    # input: foo bar baz
+    # var1=foo
+    # var2=bar
+    # var3=baz
+
+## Output 
+    
+    # output a constant
+    echo "Hello World"
+
+    # output a variable
+    echo $var
