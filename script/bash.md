@@ -18,6 +18,11 @@ A path to the shell can be specified after a shebang `#!` in the first line of t
 # set variable
 var=value
 
+# calculate something
+let var=5+4
+# or
+let "var = 5 + 4"
+
 # variables need quotes if spaces are needed
 var='Debian'
 
