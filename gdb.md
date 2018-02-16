@@ -4,6 +4,10 @@
 
 # Commands
 
+Initialize gdb session
+    
+    gdb <program>
+
 Start program
 
     run
