@@ -39,3 +39,13 @@ Set breakpoint on line
 Close debugger
 
     quit
+
+# Informations
+
+Print function arguments
+
+    info args
+
+Print breakpoints and watchpoints
+
+    info breakpoints
