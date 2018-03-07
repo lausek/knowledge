@@ -8,7 +8,7 @@ The scripting language of the [fish shell](https://github.com/fish-shell/fish-sh
 
 A path to the shell can be specified after a shebang `#!` in the first line of the script.
 
-    #!/bin/bash
+    #!/usr/bin/fish
 
 # Functions
 
@@ -57,16 +57,50 @@ end
 # $intern is not visible anymore
 ```
 
+## Special variables
+
+- `$history` - history of executed commands 
+
+- `$_` - The name of the fish script
+
+- `$argv` - The arguments passed to the script (use `count $argv` for `argc`) 
+
+- `$status` - The exit status of the most recently run process
+
+- `%self` - The process ID of the current script
+
+- `$USER` - The username of the user running the script
+
 # Branching
+
+**Note:** `or` and `and` can be used to connect expressions
 
 ## `if`
     
-    # TODO
+    if <expression>
+        # do if
+    else if <expression>
+        # do else if
+    else
+        # do else
+    end
+
+    if test -f file.txt
+        and test -r file.txt
+        # file exists and is readable
+    end
     
 ## `switch`
 
-    # TODO
-    
+    switch <value>
+        case <other_value1>
+            # value1 
+        case <other_value2> <other_value3>
+            # either value2 or value3
+        case '*'
+            # default branch
+    end
+ 
 # Looping
 
 ## `for`
@@ -80,7 +114,23 @@ end
 
 ## Input
     
-    # TODO
+    # take input from user
+    # no $ here (write)
+    read var
+
+    # specify prompt
+    read -p 'What's your name? ' var
+   
+    # silent input for passwords
+    read -s password
+
+**Note:** `read` splits on whitespace 
+
+    read var1 var2 var3
+    # input: foo bar baz
+    # var1=foo
+    # var2=bar
+    # var3=baz
     
 ## Output 
     
