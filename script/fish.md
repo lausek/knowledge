@@ -36,6 +36,10 @@ Functions defined under `$fish_function_path` are automatically added to each fi
 
 Functions, that should be available for all users, might be placed in the `vendor` directory.
 
+## Event handlers
+
+The addition `--on-signal` turns fish functions into event handlers for system events.
+
 # Variables
 
 ## Working
@@ -107,6 +111,12 @@ end
 
     # for ... in ...
     for i in `seq 1 10`
+        # ...
+    end
+
+## `while`
+
+    while <expression> 
         # ...
     end
 
