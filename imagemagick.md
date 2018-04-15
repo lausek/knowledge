@@ -6,6 +6,8 @@
 
 `<quality>` must be chosen depending on the scene complexity of the images
 
+`<extension>` e.g. jpg, png
+
 # Rotate images by EXIF info
 
     mogrify -auto-orient *
