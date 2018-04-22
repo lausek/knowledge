@@ -152,6 +152,19 @@ In simple parenthesis, it is possible to use regular comparison operators and lo
         # ...
     done
 
+# Functions
+    
+    function func_name {
+        # ...     
+    }
+
+
+## C-Style
+
+    func_name () {
+        # ...    
+    }
+
 # IO
 
 ## Input
