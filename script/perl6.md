@@ -6,7 +6,7 @@
 
 A path to the shell can be specified after a shebang `#!` in the first line of the script.
 
-    #!/bin/bash
+    #!/usr/bin/env perl6
 
 # Variables
 
