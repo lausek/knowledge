@@ -4,6 +4,8 @@
 
 # Commands
 
+**Note:** most simple commands can be called by just their first letter!
+
 Initialize gdb session
     
     gdb <program>
@@ -11,6 +13,10 @@ Initialize gdb session
 Start program
 
     run
+
+Continue program
+
+    continue
 
 Step into next function
 
@@ -35,6 +41,10 @@ Show program code
 Set breakpoint on line
     
     break <linenumber>
+
+Delete breakpoint
+    
+    del <number> [-<to_number>]
 
 Close debugger
 
