@@ -38,9 +38,7 @@ Besondere Werte (luftleerer Raum):
 ###### Wurfparabel
 ![Sy = 1/2 * g * t²](https://latex.codecogs.com/gif.latex?S_y&space;=&space;\frac{1}{2}g&space;\times&space;t^2)
 
-Da ![t = Sx / V0](https://latex.codecogs.com/gif.latex?t&space;=&space;\frac{S_x}{V_0}) 
-
-gilt auch ![Sy = 1/2 * g * (Sx² / V0²)](https://latex.codecogs.com/gif.latex?S_y&space;=&space;\frac{1}{2}g&space;\times&space;\frac{S_x^2}{V_0^2})
+![t = Sx / V0 in Sy = 1/2 * g * (Sx²/V0²)](https://latex.codecogs.com/gif.latex?t%20%3D%20%5Cfrac%7BS_x%7D%7BV_0%7D%20%5C%20in%20%5C%20S_y%20%3D%20%5Cfrac%7B1%7D%7B2%7Dg%20%5Ctimes%20%5Cfrac%7BS_x%5E2%7D%7BV_0%5E2%7D)
 
 ###### Auftreffgeschwindigkeit
 ![Va = sqrt(V0² + Vy²)](https://latex.codecogs.com/gif.latex?V_{auft.}&space;=&space;\sqrt{V_0^2&space;&plus;&space;V_y^2})
