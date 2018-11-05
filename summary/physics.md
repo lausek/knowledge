@@ -6,7 +6,7 @@
     - Mittlere Geschwindigkeit (Ø Geschwindigkeit)
     - Momentane Geschwindigkeit (Geschwindigkeit an einem Zeitpunkt)
 
-Zurückgelegte Strecke
+###### Zurückgelegte Strecke
 
 ![S = V * t](https://latex.codecogs.com/gif.latex?S&space;=&space;V&space;\times&space;t)
 
@@ -16,11 +16,11 @@ Zurückgelegte Strecke
 
 ![S / t² = 1/2 a](https://latex.codecogs.com/gif.latex?\frac{S}{t^2}&space;=&space;\frac{1}{2}a)
 
-Zurückgelegte Strecke
+###### Zurückgelegte Strecke
 
 ![S = 1/2 * a * t²](https://latex.codecogs.com/gif.latex?S&space;=&space;\frac{1}{2}a&space;\times&space;t^2)
 
-Erreichte Geschwindigkeit 
+###### Erreichte Geschwindigkeit 
 
 ![V = a * t](https://latex.codecogs.com/gif.latex?V&space;=&space;a&space;\times&space;t)
 
@@ -30,7 +30,7 @@ Besondere Werte (luftleerer Raum):
 
 - `g` (Ortsfaktor Erdbeschleunigung) = 9,81 m/s² 
 
-Fallhöhe (siehe "gbB > Zurückgelegte Strecke")
+###### Fallhöhe (siehe [gbB > Zurückgelegte Strecke](#zurückgelegte-strecke))
 
 ![Sy = 1/2 * g * t²](https://latex.codecogs.com/gif.latex?S_y&space;=&space;\frac{1}{2}g&space;\times&space;t^2)
 
@@ -38,17 +38,17 @@ Fallhöhe (siehe "gbB > Zurückgelegte Strecke")
 
 # Waagrechter Wurf
 
-Wurfparabel
+###### Wurfparabel
 
 ![Sy = 1/2 * g * t²](https://latex.codecogs.com/gif.latex?S_y&space;=&space;\frac{1}{2}g&space;\times&space;t^2)
 
-> Da ![t = Sx / V0](https://latex.codecogs.com/gif.latex?t&space;=&space;\frac{S_x}{V_0}) gilt auch ![Sy = 1/2 * g * (Sx² / V0²)](https://latex.codecogs.com/gif.latex?S_y&space;=&space;\frac{1}{2}g&space;\times&space;\frac{S_x^2}{V_0^2})
+Da ![t = Sx / V0](https://latex.codecogs.com/gif.latex?t&space;=&space;\frac{S_x}{V_0}) gilt auch ![Sy = 1/2 * g * (Sx² / V0²)](https://latex.codecogs.com/gif.latex?S_y&space;=&space;\frac{1}{2}g&space;\times&space;\frac{S_x^2}{V_0^2})
 
-Auftreffgeschwindigkeit
+###### Auftreffgeschwindigkeit
 
 ![Va = sqrt(V0² + Vy²)](https://latex.codecogs.com/gif.latex?V_{auft.}&space;=&space;\sqrt{V_0^2&space;&plus;&space;V_y^2})
 
-Auftreffwinkel
+###### Auftreffwinkel
 
 ![tan a = Vy / V0](https://latex.codecogs.com/gif.latex?\tan{\alpha}&space;=&space;\frac{V_y}{V_0})
 
