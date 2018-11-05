@@ -35,9 +35,7 @@ Besondere Werte (luftleerer Raum):
 
 ##### Geschwindigkeit
 
-![V0 = sqrt(Vx² + Vy²)](https://latex.codecogs.com/gif.latex?V_0%20%3D%20%5Csqrt%7BV_x%5E2%20&plus;%20V_y%5E2%7D)
-
-![V0 = Vx + Vy](https://latex.codecogs.com/gif.latex?%5Cvec%7BV_0%7D%20%3D%20%5Cvec%7BV_x%7D%20&plus;%20%5Cvec%7BV_y%7D)
+![V0 = sqrt(Vx² + Vy²) oder V0 = Vx + Vy](https://latex.codecogs.com/gif.latex?V_0%20%3D%20%5Csqrt%7BV_x%5E2%20&plus;%20V_y%5E2%7D%20%5C%20oder%20%5C%20%5Cvec%7BV_0%7D%20%3D%20%5Cvec%7BV_x%7D%20&plus;%20%5Cvec%7BV_y%7D)
 
 ![Vx = V0 * cos(a)](https://latex.codecogs.com/gif.latex?V_x%20%3D%20V_0%20%5Ctimes%20%5Ccos%7B%5Calpha%7D)
 
