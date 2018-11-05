@@ -7,7 +7,7 @@ Faktoren
     - Mittlere Geschwindigkeit (Ø Geschwindigkeit)
     - Momentane Geschwindigkeit (Geschwindigkeit an einem Zeitpunkt)
 
-###### Zurückgelegte Strecke
+##### Zurückgelegte Strecke
 ![S = V * t](https://latex.codecogs.com/gif.latex?S&space;=&space;V&space;\times&space;t)
 
 # Gleichmäßig beschleunigte Bewegung (gbB)
@@ -16,10 +16,10 @@ Faktoren
 - `a` = Beschleunigung (`m/s²`)
 - ![S / t² = 1/2 a](https://latex.codecogs.com/gif.latex?\frac{S}{t^2}&space;=&space;\frac{1}{2}a)
 
-###### Zurückgelegte Strecke
+##### Zurückgelegte Strecke
 ![S = 1/2 * a * t²](https://latex.codecogs.com/gif.latex?S&space;=&space;\frac{1}{2}a&space;\times&space;t^2)
 
-###### Erreichte Geschwindigkeit 
+##### Erreichte Geschwindigkeit 
 ![V = a * t](https://latex.codecogs.com/gif.latex?V&space;=&space;a&space;\times&space;t)
 
 # Freier Fall 
@@ -28,22 +28,22 @@ Besondere Werte (luftleerer Raum):
 
 - `g` (Ortsfaktor Erdbeschleunigung) = 9,81 m/s² 
 
-###### Fallhöhe (siehe [gbB > Zurückgelegte Strecke](#zurückgelegte-strecke-1))
+##### Fallhöhe (siehe [gbB > Zurückgelegte Strecke](#zurückgelegte-strecke-1))
 ![Sy = 1/2 * g * t²](https://latex.codecogs.com/gif.latex?S_y&space;=&space;\frac{1}{2}g&space;\times&space;t^2)
 
 # Schiefer Wurf
 
 # Waagrechter Wurf
 
-###### Wurfparabel
+##### Wurfparabel
 ![Sy = 1/2 * g * t²](https://latex.codecogs.com/gif.latex?S_y&space;=&space;\frac{1}{2}g&space;\times&space;t^2)
 
 ![t = Sx / V0 in Sy = 1/2 * g * (Sx²/V0²)](https://latex.codecogs.com/gif.latex?t%20%3D%20%5Cfrac%7BS_x%7D%7BV_0%7D%20%5C%20in%20%5C%20S_y%20%3D%20%5Cfrac%7B1%7D%7B2%7Dg%20%5Ctimes%20%5Cfrac%7BS_x%5E2%7D%7BV_0%5E2%7D)
 
-###### Auftreffgeschwindigkeit
+##### Auftreffgeschwindigkeit
 ![Va = sqrt(V0² + Vy²)](https://latex.codecogs.com/gif.latex?V_{auft.}&space;=&space;\sqrt{V_0^2&space;&plus;&space;V_y^2})
 
-###### Auftreffwinkel
+##### Auftreffwinkel
 ![tan a = Vy / V0](https://latex.codecogs.com/gif.latex?\tan{\alpha}&space;=&space;\frac{V_y}{V_0})
 
 # Senkrechter Wurf
@@ -52,11 +52,11 @@ Zwei überlagernde Bewegungen
 1. mit konstanter Geschwindigkeit
 2. mit Fallbewegung
 
-###### Erreichte Geschwindigkeit 
+##### Erreichte Geschwindigkeit 
 ![V = V0 - g * t](https://latex.codecogs.com/gif.latex?V%20=%20V_0%20-%20g\times%20t)
 
-###### Höhe über Abwurfstelle (!= zurückgelegte Strecke)
+##### Höhe über Abwurfstelle (!= zurückgelegte Strecke)
 ![S = V0 * t - 1/2 * g * t²](https://latex.codecogs.com/gif.latex?S%20%3D%20V_0%20%5Ctimes%20t%20-%20%5Cfrac%7B1%7D%7B2%7Dg%20%5Ctimes%20t%5E2)
 
-###### Steigzeit
+##### Steigzeit
 ![ts = V0 / g](https://latex.codecogs.com/gif.latex?t_s%20=%20\frac{V_0}{g})
