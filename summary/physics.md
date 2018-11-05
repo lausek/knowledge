@@ -24,7 +24,7 @@ Faktoren
 
 # Freier Fall 
 
-Besondere Werte (luftleerer Raum):
+Besondere Werte im luftleeren Raum:
 
 - `g` (Ortsfaktor Erdbeschleunigung) = 9,81 m/s² 
 
