@@ -30,7 +30,7 @@ Besondere Werte (luftleerer Raum):
 
 - `g` (Ortsfaktor Erdbeschleunigung) = 9,81 m/s² 
 
-###### Fallhöhe (siehe [gbB > Zurückgelegte Strecke](#zurückgelegte-strecke))
+###### Fallhöhe (siehe [gbB > Zurückgelegte Strecke](#zurückgelegte-strecke-1))
 
 ![Sy = 1/2 * g * t²](https://latex.codecogs.com/gif.latex?S_y&space;=&space;\frac{1}{2}g&space;\times&space;t^2)
 
@@ -42,7 +42,9 @@ Besondere Werte (luftleerer Raum):
 
 ![Sy = 1/2 * g * t²](https://latex.codecogs.com/gif.latex?S_y&space;=&space;\frac{1}{2}g&space;\times&space;t^2)
 
-Da ![t = Sx / V0](https://latex.codecogs.com/gif.latex?t&space;=&space;\frac{S_x}{V_0}) gilt auch ![Sy = 1/2 * g * (Sx² / V0²)](https://latex.codecogs.com/gif.latex?S_y&space;=&space;\frac{1}{2}g&space;\times&space;\frac{S_x^2}{V_0^2})
+Da ![t = Sx / V0](https://latex.codecogs.com/gif.latex?t&space;=&space;\frac{S_x}{V_0}) 
+
+gilt auch ![Sy = 1/2 * g * (Sx² / V0²)](https://latex.codecogs.com/gif.latex?S_y&space;=&space;\frac{1}{2}g&space;\times&space;\frac{S_x^2}{V_0^2})
 
 ###### Auftreffgeschwindigkeit
 
