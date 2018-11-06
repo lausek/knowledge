@@ -14,13 +14,12 @@ Faktoren
 
 Faktoren
 - `a` = Beschleunigung (`m/s²`)
-- ![S / t² = 1/2 a](https://latex.codecogs.com/gif.latex?\frac{S}{t^2}&space;=&space;\frac{1}{2}a)
-
-##### Zurückgelegte Strecke
-![S = 1/2 * a * t²](https://latex.codecogs.com/gif.latex?S&space;=&space;\frac{1}{2}a&space;\times&space;t^2)
 
 ##### Erreichte Geschwindigkeit 
 ![V = a * t](https://latex.codecogs.com/gif.latex?V&space;=&space;a&space;\times&space;t)
+
+##### Zurückgelegte Strecke
+[![S = 1/2 * a * t² oder S = 1/2 * V * t](https://latex.codecogs.com/gif.latex?S%20%3D%20%5Cfrac%7B1%7D%7B2%7Da%20%5Ctimes%20t%5E2%20%5C%20oder%20%5C%20S%20%3D%20%5Cfrac%7B1%7D%7B2%7D%20V%20%5Ctimes%20t)](https://www.codecogs.com/eqnedit.php?latex=S&space;=&space;\frac{1}{2}a&space;\times&space;t^2&space;\&space;oder&space;\&space;S&space;=&space;\frac{1}{2}&space;V&space;\times&space;t)
 
 # Freier Fall 
 
@@ -43,6 +42,10 @@ Besondere Werte im luftleeren Raum:
 
 # Waagrechter Wurf
 
+Zwei überlagernde Bewegungen
+1. mit konstanter Geschwindigkeit (siehe [ggB](#gleichmäßig-geradlinige-bewegung-ggb))
+2. mit Fallbewegung (siehe [Freier Fall](#freier-fall))
+
 ##### Wurfparabel
 ![Sy = 1/2 * g * t²](https://latex.codecogs.com/gif.latex?S_y&space;=&space;\frac{1}{2}g&space;\times&space;t^2)
 
@@ -57,8 +60,8 @@ Besondere Werte im luftleeren Raum:
 # Senkrechter Wurf
 
 Zwei überlagernde Bewegungen
-1. mit konstanter Geschwindigkeit
-2. mit Fallbewegung
+1. mit konstanter Geschwindigkeit (siehe [ggB](#gleichmäßig-geradlinige-bewegung-ggb))
+2. mit Fallbewegung (siehe [Freier Fall](#freier-fall))
 
 ##### Erreichte Geschwindigkeit 
 ![V = V0 - g * t](https://latex.codecogs.com/gif.latex?V%20=%20V_0%20-%20g\times%20t)
