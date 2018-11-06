@@ -40,6 +40,12 @@ Besondere Werte im luftleeren Raum:
 
 ![Vy = V0 * sin(a) - g * t](https://latex.codecogs.com/gif.latex?V_y%20%3D%20V_0%20%5Ctimes%20%5Csin%7B%5Calpha%7D%20-%20g%20%5Ctimes%20t)
 
+##### Erreichte Geschwindigkeit 
+[![Vy = V0 * sin(a) - g * t](https://latex.codecogs.com/gif.latex?V_y%20%3D%20V_0%20%5Ctimes%20%5Csin%7B%5Calpha%7D%20-%20g%20%5Ctimes%20t)](https://www.codecogs.com/eqnedit.php?latex=V_y%20=%20V_0%20\times%20\sin{\alpha}%20-%20g%20\times%20t)
+
+##### Steigzeit
+[![ts = (V0 * sin(a)) / g](https://latex.codecogs.com/gif.latex?t_s%20%3D%20%5Cfrac%7BV_0%20%5Ctimes%20%5Csin%7B%5Calpha%7D%7D%7Bg%7D)](https://www.codecogs.com/eqnedit.php?latex=t_s%20=%20\frac{V_0%20\times%20\sin{\alpha}}{g})
+
 # Waagrechter Wurf
 
 Zwei überlagernde Bewegungen
