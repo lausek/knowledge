@@ -38,6 +38,8 @@
     
     git config --global credential.helper cache
 
+    git config credential.helper store
+
     git push --set-upstream origin master
 
 ## Create new branch
