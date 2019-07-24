@@ -12,4 +12,4 @@ with | mit | med | ?
 without | ohne | utan | ?
 but | aber | men | ?
 left | links | vänster | ?
-right | rechts | höher | ?
+right | rechts | höger | ?
