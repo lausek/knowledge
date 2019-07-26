@@ -1,6 +1,6 @@
 # Basic words
 
-English | Deutsch | Svenska | Nederlansk
+English | Deutsch | Svenska | Nederlands
 --- | --- | --- | ---
 Hello | Hallo | Hej | Hallo
 Yes | Ja | Ja | Ja
